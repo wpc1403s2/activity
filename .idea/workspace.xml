@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a521c5d2-8201-416e-aaba-9211ced46d21" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/video.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,7 +22,7 @@
             <file leaf-file-name="150-freemode.html" pinned="false" current-in-tab="true">
               <entry file="file://$USER_HOME$/Downloads/swiper-4.3.3/swiper-4.3.3/demos/150-freemode.html">
                 <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="131">
+                  <state relative-caret-position="599">
                     <caret line="57" column="71" selection-start-line="57" selection-start-column="71" selection-end-line="57" selection-end-column="71" />
                   </state>
                 </provider>
@@ -53,20 +51,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="video.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="video.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/video.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="234">
-              <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1929">
-              <caret line="123" column="30" selection-start-line="123" selection-start-column="30" selection-end-line="123" selection-end-column="30" />
+            <state relative-caret-position="5">
+              <caret line="127" column="19" lean-forward="true" selection-start-line="127" selection-start-column="19" selection-end-line="127" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -121,9 +119,9 @@
         <option value="$PROJECT_DIR$/style/style.css" />
         <option value="$USER_HOME$/Downloads/swiper-4.3.3/swiper-4.3.3/demos/150-freemode.html" />
         <option value="$PROJECT_DIR$/js/main.js" />
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/video.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
       </list>
     </option>
   </component>
@@ -136,9 +134,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="788" />
-    <option name="y" value="41" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="753" />
+    <option name="y" value="106" />
     <option name="width" value="1002" />
     <option name="height" value="1000" />
   </component>
@@ -207,16 +205,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1531216206980</updated>
-      <workItem from="1531216208471" duration="32311000" />
+      <workItem from="1531216208471" duration="32729000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32311000" />
+    <option name="totallyTimeSpent" value="32729000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="788" y="41" width="1002" height="1000" extended-state="1" />
-    <editor active="true" />
+    <frame x="753" y="106" width="1002" height="1000" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.21403712" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -282,13 +279,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Downloads/swiper-4.3.3/swiper-4.3.3/demos/150-freemode.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="57" column="71" selection-start-line="57" selection-start-column="71" selection-end-line="57" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../手机页面写法汇总/rem写法 兼容PC/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-312">
@@ -310,13 +300,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1929">
-          <caret line="123" column="30" selection-start-line="123" selection-start-column="30" selection-end-line="123" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
@@ -331,10 +314,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Downloads/swiper-4.3.3/swiper-4.3.3/demos/150-freemode.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="599">
+          <caret line="57" column="71" selection-start-line="57" selection-start-column="71" selection-end-line="57" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/video.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
-          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5">
+          <caret line="127" column="19" lean-forward="true" selection-start-line="127" selection-start-column="19" selection-end-line="127" selection-end-column="19" />
         </state>
       </provider>
     </entry>
