@@ -17,8 +17,34 @@ for (var i=0;i<iscrollUls.length;i++) {
     ulWidth += liWidth
   }
 }
+try{
+  var swiper = new Swiper('.swiper-container', {
+    slidesPerView: 'auto',
+    freeMode: true,
+  });
+}
+catch (e) {
 
-var swiper = new Swiper('.swiper-container', {
-  slidesPerView: 'auto',
-  freeMode: true,
-});
+}
+
+$(function () {
+
+  function videoHandle(src) {
+    return "<video id=\"my-video\" class=\"video-js\" controls preload=\"auto\"\n>" +
+      "    <source src="+src+" type='video/mov'>\n" +
+      "  </video>"
+  }
+
+  var videoList = $('.video');
+  videoList.each(function () {
+    $(this).click(function () {
+     var src=this.getAttribute('data-src')
+      console.log('src', src);
+      var video = videoHandle(src);
+      $(".modal-dialog").html(video);
+      // $.blockUI({message: video});
+    })
+  })
+
+})
+
